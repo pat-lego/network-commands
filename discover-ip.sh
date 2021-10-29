@@ -1,7 +1,7 @@
 # This command will help discover IP addresses on a local network
 
 # Prior to using this script ake sure to have
-# arp-scan installed on your laptop
+# arp-scan installed on your laptop (Mac or Linux)
 #
 # Installation:
 # Mac OSX: brew install arp-scan
