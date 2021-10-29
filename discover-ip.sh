@@ -15,5 +15,5 @@
  # copy the correct interface you wish to query and then 
  # provide that as a parameter to this script
  #
- # **Note:** You will need to chmod the file in order to execute it on your laptop
+ # **Note:** You will need to chmod the file in order to execute it on your device
  sudo arp-scan --interface=$1 --localnet
