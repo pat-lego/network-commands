@@ -21,3 +21,7 @@
 #
 # **Note:** Execute chmod this file in order to execute it
 nmap -p$1 $2
+
+# If you wish to port scan multiple ports simply execute 
+# nmap -p1-65535 10.0.0.60
+# **Note:** This may take some time to execute so please be patient
